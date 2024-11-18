@@ -156,12 +156,3 @@ To-Do/
 ├── app.py                # Entry point for the Flask application
 └── README.md             # Project documentation
 
-Contributing
-
-Contributions are welcome! Please fork the repository and create a pull request.
-License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-
-This markdown file is self-contained and ready to be used on GitHub. You can replace `your-username/your-repo-name` with your actual repository information. Let me know if you'd like help customizing or extending it! 🚀
